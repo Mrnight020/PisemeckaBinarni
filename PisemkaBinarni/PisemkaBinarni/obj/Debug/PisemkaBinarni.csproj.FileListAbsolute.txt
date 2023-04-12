@@ -1,0 +1,10 @@
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\bin\Debug\PisemkaBinarni.exe.config
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\bin\Debug\PisemkaBinarni.exe
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\bin\Debug\PisemkaBinarni.pdb
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csprojAssemblyReference.cache
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.Form1.resources
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.Properties.Resources.resources
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csproj.GenerateResource.cache
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csproj.CoreCompileInputs.cache
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.exe
+G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.pdb
