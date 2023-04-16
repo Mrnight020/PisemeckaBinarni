@@ -8,3 +8,14 @@ G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\ob
 G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csproj.CoreCompileInputs.cache
 G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.exe
 G:\Programování\--------------BINARNI soubory\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\bin\Debug\PisemkaBinarni.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\bin\Debug\PisemkaBinarni.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\bin\Debug\PisemkaBinarni.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\pisemecka\PisemkaBinarni\PisemkaBinarni\obj\Debug\PisemkaBinarni.pdb
